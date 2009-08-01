@@ -110,9 +110,3 @@ def tool():
 
 if __name__ == '__main__':
     tool()
-
-    if len(sys.argv) == 1:
-        infile = sys.stdin
-        outfile = sys.stdout
-    elif len(sys.argv) == 2:
-        infile = sys.std

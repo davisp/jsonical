@@ -22,7 +22,7 @@ setup(
     author = "Paul Joseph Davis",
     author_email = "paul.joseph.davis@gmail.com",
     url = "http://github.com/davisp/jsonical",
-    version = "0.0.1",
+    version = "0.0.2",
     license = "MIT",
     keywords = "JSON canonical serialization",
     platforms = ["any"],
